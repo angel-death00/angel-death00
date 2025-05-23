@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="https://postimg.cc/mtsSP38B" width="400">
+  <img src="https://i.postimg.cc/SsB0tnCg/wings.png" width="400" alt="angel wings">
 </p>
+
+<p align="center"><i>digital angel ; online guardian</i></p>
