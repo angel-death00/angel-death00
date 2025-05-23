@@ -1,7 +1,8 @@
-https://ibb.co/fzyh2y7R
+
 
 
 <p align="center">
+
   <img src="https://i.imgur.com/ТВОЯ_КАРТИНКА.png" width="500">
 </p>
 
